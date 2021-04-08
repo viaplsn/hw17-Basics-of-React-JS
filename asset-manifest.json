@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hw17-Basics-of-React-JS/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hw17-Basics-of-React-JS/static/js/main.bdf8d9c6.chunk.js",
+    "main.js.map": "/hw17-Basics-of-React-JS/static/js/main.bdf8d9c6.chunk.js.map",
+    "runtime-main.js": "/hw17-Basics-of-React-JS/static/js/runtime-main.d91864e1.js",
+    "runtime-main.js.map": "/hw17-Basics-of-React-JS/static/js/runtime-main.d91864e1.js.map",
+    "static/js/2.b2302853.chunk.js": "/hw17-Basics-of-React-JS/static/js/2.b2302853.chunk.js",
+    "static/js/2.b2302853.chunk.js.map": "/hw17-Basics-of-React-JS/static/js/2.b2302853.chunk.js.map",
+    "static/js/3.4973aa4c.chunk.js": "/hw17-Basics-of-React-JS/static/js/3.4973aa4c.chunk.js",
+    "static/js/3.4973aa4c.chunk.js.map": "/hw17-Basics-of-React-JS/static/js/3.4973aa4c.chunk.js.map",
+    "index.html": "/hw17-Basics-of-React-JS/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hw17-Basics-of-React-JS/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b2302853.chunk.js.LICENSE.txt": "/hw17-Basics-of-React-JS/static/js/2.b2302853.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hw17-Basics-of-React-JS/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d91864e1.js",
+    "static/js/2.b2302853.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.bdf8d9c6.chunk.js"
+  ]
+}
