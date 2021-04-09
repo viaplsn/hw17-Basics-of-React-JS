@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/hw17-Basics-of-React-JS/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/hw17-Basics-of-React-JS/static/js/main.bdf8d9c6.chunk.js",
-    "main.js.map": "/hw17-Basics-of-React-JS/static/js/main.bdf8d9c6.chunk.js.map",
-    "runtime-main.js": "/hw17-Basics-of-React-JS/static/js/runtime-main.d91864e1.js",
-    "runtime-main.js.map": "/hw17-Basics-of-React-JS/static/js/runtime-main.d91864e1.js.map",
-    "static/js/2.b2302853.chunk.js": "/hw17-Basics-of-React-JS/static/js/2.b2302853.chunk.js",
-    "static/js/2.b2302853.chunk.js.map": "/hw17-Basics-of-React-JS/static/js/2.b2302853.chunk.js.map",
-    "static/js/3.4973aa4c.chunk.js": "/hw17-Basics-of-React-JS/static/js/3.4973aa4c.chunk.js",
-    "static/js/3.4973aa4c.chunk.js.map": "/hw17-Basics-of-React-JS/static/js/3.4973aa4c.chunk.js.map",
+    "main.css": "/hw17-Basics-of-React-JS/static/css/main.67904969.chunk.css",
+    "main.js": "/hw17-Basics-of-React-JS/static/js/main.243e4deb.chunk.js",
+    "main.js.map": "/hw17-Basics-of-React-JS/static/js/main.243e4deb.chunk.js.map",
+    "runtime-main.js": "/hw17-Basics-of-React-JS/static/js/runtime-main.24e523a8.js",
+    "runtime-main.js.map": "/hw17-Basics-of-React-JS/static/js/runtime-main.24e523a8.js.map",
+    "static/js/2.df47cbb5.chunk.js": "/hw17-Basics-of-React-JS/static/js/2.df47cbb5.chunk.js",
+    "static/js/2.df47cbb5.chunk.js.map": "/hw17-Basics-of-React-JS/static/js/2.df47cbb5.chunk.js.map",
+    "static/js/3.e35905eb.chunk.js": "/hw17-Basics-of-React-JS/static/js/3.e35905eb.chunk.js",
+    "static/js/3.e35905eb.chunk.js.map": "/hw17-Basics-of-React-JS/static/js/3.e35905eb.chunk.js.map",
     "index.html": "/hw17-Basics-of-React-JS/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/hw17-Basics-of-React-JS/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.b2302853.chunk.js.LICENSE.txt": "/hw17-Basics-of-React-JS/static/js/2.b2302853.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hw17-Basics-of-React-JS/static/media/logo.6ce24c58.svg"
+    "static/css/main.67904969.chunk.css.map": "/hw17-Basics-of-React-JS/static/css/main.67904969.chunk.css.map",
+    "static/js/2.df47cbb5.chunk.js.LICENSE.txt": "/hw17-Basics-of-React-JS/static/js/2.df47cbb5.chunk.js.LICENSE.txt",
+    "static/media/Bugs-Bunny-profile-pic.6ee25c7e.png": "/hw17-Basics-of-React-JS/static/media/Bugs-Bunny-profile-pic.6ee25c7e.png",
+    "static/media/Lebron-James-profile-pic.6dc61a43.jpg": "/hw17-Basics-of-React-JS/static/media/Lebron-James-profile-pic.6dc61a43.jpg",
+    "static/media/Michael-Jordan-profile-pic.bd797b6a.jpg": "/hw17-Basics-of-React-JS/static/media/Michael-Jordan-profile-pic.bd797b6a.jpg",
+    "static/media/Space-Jam-2-Bugs-Bunny-pic.5f192900.jpg": "/hw17-Basics-of-React-JS/static/media/Space-Jam-2-Bugs-Bunny-pic.5f192900.jpg",
+    "static/media/Space-Jam-2-Lola-Bunny-pic.e9c41d10.jpeg": "/hw17-Basics-of-React-JS/static/media/Space-Jam-2-Lola-Bunny-pic.e9c41d10.jpeg",
+    "static/media/Space-Jam-Tune-Squad-pic.dfbaeaab.jpeg": "/hw17-Basics-of-React-JS/static/media/Space-Jam-Tune-Squad-pic.dfbaeaab.jpeg",
+    "static/media/comment.24bbea43.svg": "/hw17-Basics-of-React-JS/static/media/comment.24bbea43.svg",
+    "static/media/like.f84c301f.svg": "/hw17-Basics-of-React-JS/static/media/like.f84c301f.svg",
+    "static/media/navigate-arrow.18779c7f.svg": "/hw17-Basics-of-React-JS/static/media/navigate-arrow.18779c7f.svg",
+    "static/media/repost.928c4ee9.svg": "/hw17-Basics-of-React-JS/static/media/repost.928c4ee9.svg",
+    "static/media/share.02ec7a74.svg": "/hw17-Basics-of-React-JS/static/media/share.02ec7a74.svg",
+    "static/media/verified-icon.faa111d6.svg": "/hw17-Basics-of-React-JS/static/media/verified-icon.faa111d6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d91864e1.js",
-    "static/js/2.b2302853.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.bdf8d9c6.chunk.js"
+    "static/js/runtime-main.24e523a8.js",
+    "static/js/2.df47cbb5.chunk.js",
+    "static/css/main.67904969.chunk.css",
+    "static/js/main.243e4deb.chunk.js"
   ]
 }
